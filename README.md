@@ -76,6 +76,8 @@ Mi enfoque es escribir código mantenible y orientado a resultados, adaptado a l
   <img src="https://github-readme-stats.vercel.app/api?username=fcatzin&show_icons=true&theme=github_dark" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcatzin&layout=compact&theme=github_dark" width="330" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcatzin&theme=github_dark"/>
+  <p><img src="https://komarev.com/ghpvc/?username=fcatzin&label=Profile%20views&color=0e75b6&style=flat"/></p>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=fcatzin"/></p>
 </div>
 
 ---
