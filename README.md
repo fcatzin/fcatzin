@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Alonso 👋</h1>
 
-<h2 align="center">Backend & Android Developer</h2>
+<h3 align="center">Backend & Android Developer</h3>
 
 <p align="center">
   C# .NET 🚀 | Android 📱 | Java 💻 | Spring Boot 🌱
